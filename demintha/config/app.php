@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://demintha.local'),
+    'url' => env('APP_URL', 'https://demintha.com'),
 
     'asset_url' => env('ASSET_URL'),
 
